@@ -1,0 +1,10 @@
+{
+    "image_name": "kodim02.png",
+    "method": "km++",
+    "k": 256,
+    "SSIM": 0.9913993786897151,
+    "MSE": 2.168855455186632,
+    "original_unique_colors": 13452,
+    "quantized_unique_colors": 256,
+    "processing_time": 10.053195238113403
+}
